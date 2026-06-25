@@ -42,20 +42,6 @@ I am a passionate Data Engineer & Data Scientist with hands-on experience buildi
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rs-vaibhav&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs-vaibhav&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rs-vaibhav&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
